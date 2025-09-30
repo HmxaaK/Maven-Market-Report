@@ -45,9 +45,9 @@ Drill-down capabilities for detailed exploration
 
 📂 Repository Contents
 
-MavenMarket_Report.pbix – Main Power BI file
+MavenMarket Analytics – Main Power BI file
 
-MavenMarket_Report.pdf – Exported version of the dashboard
+Raw Data - All Data Files in CSV
 
 Screenshots/ – Visual previews of the report
 
